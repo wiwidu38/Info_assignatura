@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">info_assignatura</string>
+    <string name="desenvolupament">DESENVOLUPAMENT DE DISPOSITIUS MÒBILS (I)</string>
+    <string name="produccio">PRODUCCIÓ AUDIOVISUAL</string>
+    <string name="desenvolupamen_description">El objetivo principal de la asignatura es ampliar los conocimientos de los alumnos en el campo de la programación, presentándolos un nuevo ámbito: la programación para dispositivos móviles.</string>
+    <string name="produccio_description">La visualización de imágenes y vídeos han ganado presencia respecto a los documentos escritos. Es por esta razón que la creación de un buen audiovisual se ha vuelto clave en la hora de transmitir una idea o bien reflejar un sentimiento.</string>
+</resources>
